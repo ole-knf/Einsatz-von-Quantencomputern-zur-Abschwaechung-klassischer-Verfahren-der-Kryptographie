@@ -1,2 +1,2 @@
-# Einsatz-von-Quantencomputern-zur-Abschwaechung-klassischer-Verfahren-der-Kryptographie
+# Einsatz von Quantencomputern zur Abschwächung klassischer Verfahren der Kryptographie
 Codeausschnitte aus meiner Bachelorarbeit "Einsatz von Quantencomputern zur Abschwächung klassischer Verfahren der Kryptographie"
