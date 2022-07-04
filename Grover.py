@@ -1,3 +1,5 @@
+#Folgender Codeabschnitt stammt teils aus https://qiskit.org/documentation/tutorials/algorithms/06_grover.html
+
 from qiskit import QuantumCircuit
 from qiskit import Aer
 from qiskit.algorithms import AmplificationProblem
