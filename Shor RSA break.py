@@ -1,3 +1,5 @@
+#Folgender Codeabschnitt stammt teils aus https://qiskit.org/documentation/tutorials/algorithms/08_factorizers.html
+
 import time
 from qiskit import Aer
 from qiskit.utils import QuantumInstance
