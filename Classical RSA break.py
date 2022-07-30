@@ -23,7 +23,7 @@ def factor_finding(num):
 def factor_finding_timer(num):
     # Create a timestamp as the start time
     start_time = time.time()
-    # call the function factor_finding for "num"
+    # Call the function factor_finding for "num"
     factor_finding(num)
     # Create a timestamp as the end time and calculate the diffrence to the start time
     end_time = time.time()
